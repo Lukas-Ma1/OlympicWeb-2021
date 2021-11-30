@@ -22,7 +22,7 @@
 
    本项目是基于yii2框架实现的，要启动项目请先确认电脑上已安装yii2或composer，后者是一个php管理工具，可以使用它来安装yii2。具体操作：安装composer后在htdocs内启动cmd执行
 
-   ![img](file://clip_image002.jpg)
+   ![img](clip_image002.jpg)
 
    完成后执行php init进行初始化
 
@@ -38,9 +38,9 @@
 
    完成后，访问http://localhost/advanced/frontend/web/index.php截图如下：
 
-   ![img](file://clip_image004.png)
+   ![img](clip_image004.png)
 
-   ![img](file://clip_image006.png)
+   ![img](clip_image006.png)
 
    项目成功部署并连接数据库。
 
